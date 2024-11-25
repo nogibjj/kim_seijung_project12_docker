@@ -27,7 +27,7 @@ This project aims to create a simple Python calcuator application containerized 
 
 
 ## Screenshots of Dockerized App
-![Alt text](add_result.png "App Screenshot")
-![Alt text](calc_operations "App Screenshot")
+![Alt text](add_result.png "App Screenshot"){ width=400px }
+![Alt text](calc_operations.png "App Screenshot"){ width=400px }
 
 
