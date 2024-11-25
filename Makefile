@@ -1,6 +1,6 @@
 # Define the image name
-IMAGE_NAME = calc_app
-DOCKER_ID_USER = alexackerman
+IMAGE_NAME = de_project12
+DOCKER_ID_USER = seij001
 
 # Build the Docker image
 build:
