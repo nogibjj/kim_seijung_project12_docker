@@ -72,7 +72,7 @@ calculator_template = """
 </head>
 <body>
     <div class="calculator-container">
-        <h1>Simple Calculator</h1>
+        <h1>Flask Calculator</h1>
         <form method="POST">
             <label for="num1">Number 1:</label>
             <input type="number" name="num1" id="num1" required>
